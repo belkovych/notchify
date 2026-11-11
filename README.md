@@ -90,3 +90,7 @@ cd notchify
 | `Sources/Palette.swift` | кольори з обкладинки |
 | `Sources/Mascot.swift` | маскот |
 | `Sources/LoginItem.swift` | автозапуск |
+
+## Ліцензія
+
+[MIT](LICENSE) — можна вільно використовувати, змінювати й поширювати.
